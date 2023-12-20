@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ol1mowski.github.io/Portfolio.Oliwier.Markiewicz/](https://ol1mowski.github.io/Portfolio.Oliwier.Markiewicz/)
 
-- 📫 How to reach me **oliwier.markiewicz.dev@gmail.com**
+- 📫 How to reach me **oliwier.markiewicz@gmx.co.uk**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/oliwier-markiewicz-47857228a/](https://www.linkedin.com/in/oliwier-markiewicz-47857228a/)
 
