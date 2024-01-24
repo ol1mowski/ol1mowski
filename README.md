@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Alice Ai therapist](https://github.com/ol1mowski/therapist)
 
-- 🌱 I’m currently learning **React and TypeScript**
+- 🌱 I’m currently learning **Next js**
 
 - 👨‍💻 All of my projects are available at [https://ol1mowski.github.io/Portfolio.Oliwier.Markiewicz/](https://ol1mowski.github.io/Portfolio.Oliwier.Markiewicz/)
 
