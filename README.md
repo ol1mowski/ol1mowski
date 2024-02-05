@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Next js**
 
-- 👨‍💻 All of my projects are available at [https://ol1mowski.github.io/Portfolio.Oliwier.Markiewicz/](https://ol1mowski.github.io/Portfolio.Oliwier.Markiewicz/)
+- 👨‍💻 All of my projects are available at [https://oliwiermarkiewicz.netlify.app]
 
 - 📫 How to reach me **oliwier.markiewicz@gmx.co.uk**
 
