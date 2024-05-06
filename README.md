@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at https://oliwiermarkiewicz.netlify.app
 
-- 📚 Read my blog: https://lifeofcodeblog.netlify.app/
+- 📚 Read my blog: https://webblogger.netlify.app/
 
 - 📫 How to reach me **oliwier.markiewicz@gmx.co.uk**
 
