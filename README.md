@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **Next js**
 
-- 👨‍💻 All of my projects are available at https://oliwiermarkiewicz.netlify.app
+- 👨‍💻 All of my projects are available at https://www.oliwiermarkiewicz.pl/
 
-- 📚 Read my blog: https://webblogger.netlify.app/
+- 📚 Read my blog: https://www.oliwiermarkiewicz.pl/Blog/
 
 - 📫 How to reach me **oliwier.markiewicz@gmx.co.uk**
 
