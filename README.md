@@ -8,6 +8,8 @@
 
 - 🌱 I’m currently learning **Next js**
 
+- 📚 Read my free E-book: https://www.oliwiermarkiewicz.pl/Ebook/
+
 - 👨‍💻 All of my projects are available at https://www.oliwiermarkiewicz.pl/
 
 - 📚 Read my blog: https://www.oliwiermarkiewicz.pl/Blog/
