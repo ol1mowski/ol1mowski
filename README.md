@@ -14,7 +14,7 @@
 
 - 📚 Read my blog: https://www.oliwiermarkiewicz.pl/Blog/
 
-- 📫 How to reach me **oliwier.markiewicz@gmx.co.uk**
+- 📫 How to reach me **oliwier.markiewicz.dev@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/oliwier-markiewicz-47857228a/](https://www.linkedin.com/in/oliwier-markiewicz-47857228a/)
 
