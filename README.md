@@ -10,6 +10,8 @@
 
 - 📚 Read my free E-book: https://www.oliwiermarkiewicz.pl/Ebook/
 
+- 📚 Get free JavaScript note: https://www.oliwiermarkiewicz.pl/Notatki/JavaScript/
+
 - 👨‍💻 All of my projects are available at https://www.oliwiermarkiewicz.pl/
 
 - 📚 Read my blog: https://www.oliwiermarkiewicz.pl/Blog/
