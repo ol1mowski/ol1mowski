@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Next js**
 
-- 📚 Read my free E-book: https://www.oliwiermarkiewicz.pl/Ebook/
+- 📚 Read my free E-books: https://www.oliwiermarkiewicz.pl/Ebooki/
 
 - 📚 Get free JavaScript note: https://www.oliwiermarkiewicz.pl/Notatki/JavaScript/
 
