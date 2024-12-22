@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ol1mowski&label=Profile%20views&color=0e75b6&style=flat" alt="ol1mowski" /> </p>
 
 
-- 🔭 I’m currently working on [Alice Ai therapist](https://github.com/ol1mowski/therapist)
+- 🔭 I’m currently working on [Courses Site](https://github.com/ol1mowski/Course-Landing-Page/tree/main)
 
 - 🌱 I’m currently learning **Next js**
 
