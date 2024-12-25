@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Courses Site](https://github.com/ol1mowski/Course-Landing-Page/tree/main)
 
-- 🌱 I’m currently learning **Next js**
+- 🌱 I’m currently learning **React js best patterns**
 
 - 📚 Read my free E-books: https://www.oliwiermarkiewicz.pl/Ebooki/
 
