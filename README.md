@@ -16,6 +16,8 @@
 
 - 📚 Read my blog: https://www.oliwiermarkiewicz.pl/Blog/
 
+- 🎬 My YouTube: https://www.youtube.com/@oliwier.markiewicz/
+
 - 📫 How to reach me **oliwier.markiewicz.dev@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/oliwier-markiewicz-47857228a/](https://www.linkedin.com/in/oliwier-markiewicz-47857228a/)
