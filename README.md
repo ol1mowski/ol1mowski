@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ol1mowski&label=Profile%20views&color=0e75b6&style=flat" alt="ol1mowski" /> </p>
 
 
-- 🔭 I’m currently working on [Courses Site](https://github.com/ol1mowski/Course-Landing-Page/tree/main)
+- 🔭 I’m currently working on [CodeLinesJS]([https://github.com/ol1mowski/CodeLinesJS])
 
 - 🌱 I’m currently learning **React js best patterns**
 
