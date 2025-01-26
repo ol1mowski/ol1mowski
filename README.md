@@ -28,8 +28,6 @@
 <a href="https://www.youtube.com/channel/UCTNFKRALTZoSQS6mDOuDs2Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="life of code" height="30" width="40" /></a>
 </p>
 
-ns/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ol1mowski&show_icons=true&locale=en&layout=compact" alt="ol1mowski" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ol1mowski&show_icons=true&locale=en" alt="ol1mowski" /></p>
