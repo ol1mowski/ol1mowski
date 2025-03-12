@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oliwier Markiewicz</h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
 
-- 🌱 I’m currently learning **Node js**
+- 🌱 I’m currently learning **Docker**
 - 🌱 I’m currently develop: [Code Lines Js](https://github.com/ol1mowski/CodeLinesJS)
 - 📚 Read my free E-books: https://www.oliwiermarkiewicz.pl/Ebooki/
 - 📚 Get free JavaScript note: https://www.oliwiermarkiewicz.pl/Notatki/JavaScript/
