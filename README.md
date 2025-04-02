@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Oliwier Markiewicz</h1>
-<h3 align="center">Full-stack developer</h3>
+<h3 align="center">Full-stack developer | Next.js React TypeScript Node Express MongoDB MySQL Docker Kubernetes AWS</h3>
 
 - 🌱 I’m currently learning **Docker**
 - 🌱 I’m currently develop: [Code Lines Js](https://github.com/ol1mowski/CodeLinesJS)
