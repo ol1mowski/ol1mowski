@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Oliwier Markiewicz</h1>
-<h3 align="center">A passionate full-stack developer from Poland</h3>
+<h1 align="center">Hi, I'm Oliwier Markiewicz</h1>
+<h3 align="center">Full-stack developer</h3>
 
 - 🌱 I’m currently learning **Docker**
 - 🌱 I’m currently develop: [Code Lines Js](https://github.com/ol1mowski/CodeLinesJS)
