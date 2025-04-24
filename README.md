@@ -2,7 +2,7 @@
 <h3 align="center">Full-stack developer | Next.js React TypeScript Node Express MongoDB MySQL Docker Kubernetes AWS</h3>
 
 - 🌱 I’m currently learning **Docker**
-- 🌱 I’m currently develop: [Code Lines Js](https://github.com/ol1mowski/CodeLinesJS)
+- 🌱 I’m currently develop: [CodeLinesJs](https://github.com/ol1mowski/CodeLinesJS)
 - 📚 Read my free E-books: https://www.oliwiermarkiewicz.pl/Ebooki/
 - 📚 Get free JavaScript note: https://www.oliwiermarkiewicz.pl/Notatki/JavaScript/
 - 👨‍💻 All of my projects are available at https://www.oliwiermarkiewicz.pl/
