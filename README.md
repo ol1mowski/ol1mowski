@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Oliwier Markiewicz</h1>
-<h3 align="center">Full-stack developer | Next.js React TypeScript Node Express MongoDB MySQL Docker Kubernetes AWS</h3>
+<h3 align="center">Full-stack developer | Spring Boot React TypeScript Node Express Hibernate MongoDB MySQL Docker Kubernetes AWS</h3>
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently learning **Spring Boot**
 - 🌱 I’m currently develop: [CodeLinesJs](https://github.com/ol1mowski/CodeLinesJS)
 - 📚 Read my free E-books: https://www.oliwiermarkiewicz.pl/Ebooki/
 - 📚 Get free JavaScript note: https://www.oliwiermarkiewicz.pl/Notatki/JavaScript/
