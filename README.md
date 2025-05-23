@@ -20,7 +20,9 @@
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
-➡️ [More videos...](https://www.youtube.com/@oliwier.markiewicz/)
+<br/>
+
+➡️ [Więcej filmów...](https://www.youtube.com/@oliwier.markiewicz/)
 
 # 💻 Fullstack Tech Stack:
 

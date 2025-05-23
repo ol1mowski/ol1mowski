@@ -20,5 +20,5 @@ jobs:
           comment_tag_name: "YOUTUBE"
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCTNFKRALTZoSQS6mDOuDs2Q"
           max_post_count: 6
-          template: "- [$title]($url)"
-          date_format: "mmm dd, yyyy" 
+          template: '<a href="$url"><img src="https://img.youtube.com/vi/$video_id/mqdefault.jpg" alt="$title" width="300"/></a><br/>**[$title]($url)**<br/>📅 $date<br/><br/>'
+          date_format: "dd MMM yyyy" 
