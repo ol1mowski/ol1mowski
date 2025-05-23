@@ -17,8 +17,7 @@
 <a href="https://www.youtube.com/channel/UCTNFKRALTZoSQS6mDOuDs2Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="life of code" height="30" width="40" /></a>
 
 # 🎬 Latest YouTube Videos
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
+<!-- YOUTUBE:START -->- [🚨 KRYTYCZNA PODATNOŚĆ W NEXT.JS TWOJA APLIKACJA JEST W NIEBEZPIECZEŃSTWIE! #cybersecurity #nextjs](https://www.youtube.com/watch?v=5rF9zqrgcp8)- [Najdziwniejsze zachowania JavaScript których nie znasz !](https://www.youtube.com/watch?v=3Iz93_n-pLM)- [🔥 99% programistów NIE ZNA tej dziwnej zasady w JavaScript! 😱 JavaScript Tips Programowanie](https://www.youtube.com/watch?v=4VFXEjTA1so)- [Największe błędy w nauce programowania - Unikaj ich !](https://www.youtube.com/watch?v=EgfYcYcP50k)- [❌ Największy BŁĄD Młodych Programistów… Przez TO Nigdy Nie Zostaniesz DEVem! ⚠️#programowanie](https://www.youtube.com/watch?v=MFiAWw2idhQ)- [🏆 Top 5 narzędzi, które zrewolucjonizują Twój proces tworzenia aplikacji webowych! #programowanie](https://www.youtube.com/watch?v=D-mEyvX0WD8)<!-- YOUTUBE:END -->
 
 ➡️ [More videos...](https://www.youtube.com/@oliwier.markiewicz/)
 
