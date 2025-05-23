@@ -17,7 +17,60 @@
 <a href="https://www.youtube.com/channel/UCTNFKRALTZoSQS6mDOuDs2Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="life of code" height="30" width="40" /></a>
 
 # 🎬 Latest YouTube Videos
-<!-- YOUTUBE:START -->[![🚨 KRYTYCZNA PODATNOŚĆ W NEXT.JS TWOJA APLIKACJA JEST W NIEBEZPIECZEŃSTWIE! #cybersecurity #nextjs](https://img.youtube.com/vi/##YOUTUBE_ID##/mqdefault.jpg)](https://www.youtube.com/watch?v=5rF9zqrgcp8)[![Najdziwniejsze zachowania JavaScript których nie znasz !](https://img.youtube.com/vi/##YOUTUBE_ID##/mqdefault.jpg)](https://www.youtube.com/watch?v=3Iz93_n-pLM)[![🔥 99% programistów NIE ZNA tej dziwnej zasady w JavaScript! 😱 JavaScript Tips Programowanie](https://img.youtube.com/vi/##YOUTUBE_ID##/mqdefault.jpg)](https://www.youtube.com/watch?v=4VFXEjTA1so)[![Największe błędy w nauce programowania - Unikaj ich !](https://img.youtube.com/vi/##YOUTUBE_ID##/mqdefault.jpg)](https://www.youtube.com/watch?v=EgfYcYcP50k)[![❌ Największy BŁĄD Młodych Programistów… Przez TO Nigdy Nie Zostaniesz DEVem! ⚠️#programowanie](https://img.youtube.com/vi/##YOUTUBE_ID##/mqdefault.jpg)](https://www.youtube.com/watch?v=MFiAWw2idhQ)[![🏆 Top 5 narzędzi, które zrewolucjonizują Twój proces tworzenia aplikacji webowych! #programowanie](https://img.youtube.com/vi/##YOUTUBE_ID##/mqdefault.jpg)](https://www.youtube.com/watch?v=D-mEyvX0WD8)<!-- YOUTUBE:END -->
+<!-- YOUTUBE:START -->
+
+<table>
+<tr>
+<td width="50%">
+
+[![🚨 KRYTYCZNA PODATNOŚĆ W NEXT.JS](https://img.youtube.com/vi/5rF9zqrgcp8/mqdefault.jpg)](https://www.youtube.com/watch?v=5rF9zqrgcp8)
+
+**[🚨 KRYTYCZNA PODATNOŚĆ W NEXT.JS TWOJA APLIKACJA JEST W NIEBEZPIECZEŃSTWIE!](https://www.youtube.com/watch?v=5rF9zqrgcp8)**
+
+</td>
+<td width="50%">
+
+[![Najdziwniejsze zachowania JavaScript](https://img.youtube.com/vi/3Iz93_n-pLM/mqdefault.jpg)](https://www.youtube.com/watch?v=3Iz93_n-pLM)
+
+**[Najdziwniejsze zachowania JavaScript których nie znasz !](https://www.youtube.com/watch?v=3Iz93_n-pLM)**
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+[![99% programistów NIE ZNA tej zasady](https://img.youtube.com/vi/4VFXEjTA1so/mqdefault.jpg)](https://www.youtube.com/watch?v=4VFXEjTA1so)
+
+**[🔥 99% programistów NIE ZNA tej dziwnej zasady w JavaScript!](https://www.youtube.com/watch?v=4VFXEjTA1so)**
+
+</td>
+<td width="50%">
+
+[![Największe błędy w nauce programowania](https://img.youtube.com/vi/EgfYcYcP50k/mqdefault.jpg)](https://www.youtube.com/watch?v=EgfYcYcP50k)
+
+**[Największe błędy w nauce programowania - Unikaj ich !](https://www.youtube.com/watch?v=EgfYcYcP50k)**
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+[![Największy BŁĄD Młodych Programistów](https://img.youtube.com/vi/MFiAWw2idhQ/mqdefault.jpg)](https://www.youtube.com/watch?v=MFiAWw2idhQ)
+
+**[❌ Największy BŁĄD Młodych Programistów…](https://www.youtube.com/watch?v=MFiAWw2idhQ)**
+
+</td>
+<td width="50%">
+
+[![Top 5 narzędzi dla webdev](https://img.youtube.com/vi/D-mEyvX0WD8/mqdefault.jpg)](https://www.youtube.com/watch?v=D-mEyvX0WD8)
+
+**[🏆 Top 5 narzędzi, które zrewolucjonizują Twój proces](https://www.youtube.com/watch?v=D-mEyvX0WD8)**
+
+</td>
+</tr>
+</table>
+
+<!-- YOUTUBE:END -->
 
 <br/>
 
