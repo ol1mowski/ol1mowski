@@ -4,6 +4,9 @@ on:
     - cron: '0 8 * * *'
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   update-readme-with-youtube:
     name: Update this repo's README with latest videos from YouTube
