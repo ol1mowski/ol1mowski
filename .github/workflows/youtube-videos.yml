@@ -21,7 +21,7 @@ jobs:
           comment_tag_name: "YOUTUBE"
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCTNFKRALTZoSQS6mDOuDs2Q"
           max_post_count: 6
-          template: "[![$title](https://img.youtube.com/vi/##YOUTUBE_ID##/mqdefault.jpg)]($url)"
+          template: "[![$title](https://img.youtube.com/vi/##YOUTUBE_ID##/hqdefault.jpg)]($url)"
           date_format: "dd MMM yyyy"
           filter_comments: "true"
           reddit_preview_image: "false"
