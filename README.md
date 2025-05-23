@@ -21,7 +21,7 @@
 
 <br/>
 
-➡️ [Więcej filmów...](https://www.youtube.com/@oliwier.markiewicz/)
+➡️ [More videos...](https://www.youtube.com/@oliwier.markiewicz/)
 
 # 💻 Fullstack Tech Stack:
 
