@@ -19,56 +19,70 @@
 # 🎬 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 
-<table>
-<tr>
-<td width="50%">
-
-[![🚨 KRYTYCZNA PODATNOŚĆ W NEXT.JS](https://img.youtube.com/vi/5rF9zqrgcp8/mqdefault.jpg)](https://www.youtube.com/watch?v=5rF9zqrgcp8)
-
-**[🚨 KRYTYCZNA PODATNOŚĆ W NEXT.JS TWOJA APLIKACJA JEST W NIEBEZPIECZEŃSTWIE!](https://www.youtube.com/watch?v=5rF9zqrgcp8)**
-
-</td>
-<td width="50%">
-
-[![Najdziwniejsze zachowania JavaScript](https://img.youtube.com/vi/3Iz93_n-pLM/mqdefault.jpg)](https://www.youtube.com/watch?v=3Iz93_n-pLM)
-
-**[Najdziwniejsze zachowania JavaScript których nie znasz !](https://www.youtube.com/watch?v=3Iz93_n-pLM)**
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-[![99% programistów NIE ZNA tej zasady](https://img.youtube.com/vi/4VFXEjTA1so/mqdefault.jpg)](https://www.youtube.com/watch?v=4VFXEjTA1so)
-
-**[🔥 99% programistów NIE ZNA tej dziwnej zasady w JavaScript!](https://www.youtube.com/watch?v=4VFXEjTA1so)**
-
-</td>
-<td width="50%">
-
-[![Największe błędy w nauce programowania](https://img.youtube.com/vi/EgfYcYcP50k/mqdefault.jpg)](https://www.youtube.com/watch?v=EgfYcYcP50k)
-
-**[Największe błędy w nauce programowania - Unikaj ich !](https://www.youtube.com/watch?v=EgfYcYcP50k)**
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-[![Największy BŁĄD Młodych Programistów](https://img.youtube.com/vi/MFiAWw2idhQ/mqdefault.jpg)](https://www.youtube.com/watch?v=MFiAWw2idhQ)
-
-**[❌ Największy BŁĄD Młodych Programistów…](https://www.youtube.com/watch?v=MFiAWw2idhQ)**
-
-</td>
-<td width="50%">
-
-[![Top 5 narzędzi dla webdev](https://img.youtube.com/vi/D-mEyvX0WD8/mqdefault.jpg)](https://www.youtube.com/watch?v=D-mEyvX0WD8)
-
-**[🏆 Top 5 narzędzi, które zrewolucjonizują Twój proces](https://www.youtube.com/watch?v=D-mEyvX0WD8)**
-
-</td>
-</tr>
-</table>
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="50%" align="center">
+        <div style="margin: 10px; padding: 15px; border-radius: 15px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); box-shadow: 0 8px 32px rgba(0,0,0,0.1);">
+          <a href="https://www.youtube.com/watch?v=5rF9zqrgcp8">
+            <img src="https://img.youtube.com/vi/5rF9zqrgcp8/hqdefault.jpg" width="100%" style="border-radius: 10px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
+          </a>
+          <br/><br/>
+          <strong style="color: white; font-size: 16px; text-shadow: 0 2px 4px rgba(0,0,0,0.3);">🚨 KRYTYCZNA PODATNOŚĆ W NEXT.JS TWOJA APLIKACJA JEST W NIEBEZPIECZEŃSTWIE!</strong>
+        </div>
+      </td>
+      <td width="50%" align="center">
+        <div style="margin: 10px; padding: 15px; border-radius: 15px; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); box-shadow: 0 8px 32px rgba(0,0,0,0.1);">
+          <a href="https://www.youtube.com/watch?v=3Iz93_n-pLM">
+            <img src="https://img.youtube.com/vi/3Iz93_n-pLM/hqdefault.jpg" width="100%" style="border-radius: 10px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
+          </a>
+          <br/><br/>
+          <strong style="color: white; font-size: 16px; text-shadow: 0 2px 4px rgba(0,0,0,0.3);">Najdziwniejsze zachowania JavaScript których nie znasz !</strong>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <div style="margin: 10px; padding: 15px; border-radius: 15px; background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); box-shadow: 0 8px 32px rgba(0,0,0,0.1);">
+          <a href="https://www.youtube.com/watch?v=4VFXEjTA1so">
+            <img src="https://img.youtube.com/vi/4VFXEjTA1so/hqdefault.jpg" width="100%" style="border-radius: 10px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
+          </a>
+          <br/><br/>
+          <strong style="color: white; font-size: 16px; text-shadow: 0 2px 4px rgba(0,0,0,0.3);">🔥 99% programistów NIE ZNA tej dziwnej zasady w JavaScript!</strong>
+        </div>
+      </td>
+      <td width="50%" align="center">
+        <div style="margin: 10px; padding: 15px; border-radius: 15px; background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); box-shadow: 0 8px 32px rgba(0,0,0,0.1);">
+          <a href="https://www.youtube.com/watch?v=EgfYcYcP50k">
+            <img src="https://img.youtube.com/vi/EgfYcYcP50k/hqdefault.jpg" width="100%" style="border-radius: 10px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
+          </a>
+          <br/><br/>
+          <strong style="color: white; font-size: 16px; text-shadow: 0 2px 4px rgba(0,0,0,0.3);">Największe błędy w nauce programowania - Unikaj ich !</strong>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <div style="margin: 10px; padding: 15px; border-radius: 15px; background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); box-shadow: 0 8px 32px rgba(0,0,0,0.1);">
+          <a href="https://www.youtube.com/watch?v=MFiAWw2idhQ">
+            <img src="https://img.youtube.com/vi/MFiAWw2idhQ/hqdefault.jpg" width="100%" style="border-radius: 10px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
+          </a>
+          <br/><br/>
+          <strong style="color: #333; font-size: 16px; text-shadow: 0 2px 4px rgba(0,0,0,0.1);">❌ Największy BŁĄD Młodych Programistów…</strong>
+        </div>
+      </td>
+      <td width="50%" align="center">
+        <div style="margin: 10px; padding: 15px; border-radius: 15px; background: linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%); box-shadow: 0 8px 32px rgba(0,0,0,0.1);">
+          <a href="https://www.youtube.com/watch?v=D-mEyvX0WD8">
+            <img src="https://img.youtube.com/vi/D-mEyvX0WD8/hqdefault.jpg" width="100%" style="border-radius: 10px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
+          </a>
+          <br/><br/>
+          <strong style="color: #333; font-size: 16px; text-shadow: 0 2px 4px rgba(0,0,0,0.1);">🏆 Top 5 narzędzi, które zrewolucjonizują Twój proces</strong>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <!-- YOUTUBE:END -->
 
