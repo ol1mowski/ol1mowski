@@ -17,7 +17,74 @@
 <a href="https://www.youtube.com/channel/UCTNFKRALTZoSQS6mDOuDs2Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="life of code" height="30" width="40" /></a>
 
 # 🎬 Latest YouTube Videos
-<!-- YOUTUBE:START --><div align="center"><a href="https://www.youtube.com/watch?v=5rF9zqrgcp8"><img src="https://img.youtube.com/vi/##YOUTUBE_ID##/hqdefault.jpg" width="400" alt="🚨 KRYTYCZNA PODATNOŚĆ W NEXT.JS TWOJA APLIKACJA JEST W NIEBEZPIECZEŃSTWIE! #cybersecurity #nextjs" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/></a><br/><strong style="font-size: 14px;">🚨 KRYTYCZNA PODATNOŚĆ W NEXT.JS TWOJA APLIKACJA JEST W NIEBEZPIECZEŃSTWIE! #cybersecurity #nextjs</strong></div><div align="center"><a href="https://www.youtube.com/watch?v=3Iz93_n-pLM"><img src="https://img.youtube.com/vi/##YOUTUBE_ID##/hqdefault.jpg" width="400" alt="Najdziwniejsze zachowania JavaScript których nie znasz !" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/></a><br/><strong style="font-size: 14px;">Najdziwniejsze zachowania JavaScript których nie znasz !</strong></div><div align="center"><a href="https://www.youtube.com/watch?v=4VFXEjTA1so"><img src="https://img.youtube.com/vi/##YOUTUBE_ID##/hqdefault.jpg" width="400" alt="🔥 99% programistów NIE ZNA tej dziwnej zasady w JavaScript! 😱 JavaScript Tips Programowanie" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/></a><br/><strong style="font-size: 14px;">🔥 99% programistów NIE ZNA tej dziwnej zasady w JavaScript! 😱 JavaScript Tips Programowanie</strong></div><div align="center"><a href="https://www.youtube.com/watch?v=EgfYcYcP50k"><img src="https://img.youtube.com/vi/##YOUTUBE_ID##/hqdefault.jpg" width="400" alt="Największe błędy w nauce programowania - Unikaj ich !" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/></a><br/><strong style="font-size: 14px;">Największe błędy w nauce programowania - Unikaj ich !</strong></div><div align="center"><a href="https://www.youtube.com/watch?v=MFiAWw2idhQ"><img src="https://img.youtube.com/vi/##YOUTUBE_ID##/hqdefault.jpg" width="400" alt="❌ Największy BŁĄD Młodych Programistów… Przez TO Nigdy Nie Zostaniesz DEVem! ⚠️#programowanie" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/></a><br/><strong style="font-size: 14px;">❌ Największy BŁĄD Młodych Programistów… Przez TO Nigdy Nie Zostaniesz DEVem! ⚠️#programowanie</strong></div><div align="center"><a href="https://www.youtube.com/watch?v=D-mEyvX0WD8"><img src="https://img.youtube.com/vi/##YOUTUBE_ID##/hqdefault.jpg" width="400" alt="🏆 Top 5 narzędzi, które zrewolucjonizują Twój proces tworzenia aplikacji webowych! #programowanie" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/></a><br/><strong style="font-size: 14px;">🏆 Top 5 narzędzi, które zrewolucjonizują Twój proces tworzenia aplikacji webowych! #programowanie</strong></div><!-- YOUTUBE:END -->
+<!-- YOUTUBE:START -->
+
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="50%" align="center">
+        <div style="margin: 10px; padding: 15px; border-radius: 15px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); box-shadow: 0 8px 32px rgba(0,0,0,0.1);">
+          <a href="https://www.youtube.com/watch?v=5rF9zqrgcp8">
+            <img src="https://img.youtube.com/vi/5rF9zqrgcp8/hqdefault.jpg" width="100%" style="border-radius: 10px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
+          </a>
+          <br/><br/>
+          <strong style="color: white; font-size: 16px; text-shadow: 0 2px 4px rgba(0,0,0,0.3);">🚨 KRYTYCZNA PODATNOŚĆ W NEXT.JS TWOJA APLIKACJA JEST W NIEBEZPIECZEŃSTWIE!</strong>
+        </div>
+      </td>
+      <td width="50%" align="center">
+        <div style="margin: 10px; padding: 15px; border-radius: 15px; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); box-shadow: 0 8px 32px rgba(0,0,0,0.1);">
+          <a href="https://www.youtube.com/watch?v=3Iz93_n-pLM">
+            <img src="https://img.youtube.com/vi/3Iz93_n-pLM/hqdefault.jpg" width="100%" style="border-radius: 10px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
+          </a>
+          <br/><br/>
+          <strong style="color: white; font-size: 16px; text-shadow: 0 2px 4px rgba(0,0,0,0.3);">Najdziwniejsze zachowania JavaScript których nie znasz !</strong>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <div style="margin: 10px; padding: 15px; border-radius: 15px; background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); box-shadow: 0 8px 32px rgba(0,0,0,0.1);">
+          <a href="https://www.youtube.com/watch?v=4VFXEjTA1so">
+            <img src="https://img.youtube.com/vi/4VFXEjTA1so/hqdefault.jpg" width="100%" style="border-radius: 10px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
+          </a>
+          <br/><br/>
+          <strong style="color: white; font-size: 16px; text-shadow: 0 2px 4px rgba(0,0,0,0.3);">🔥 99% programistów NIE ZNA tej dziwnej zasady w JavaScript!</strong>
+        </div>
+      </td>
+      <td width="50%" align="center">
+        <div style="margin: 10px; padding: 15px; border-radius: 15px; background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); box-shadow: 0 8px 32px rgba(0,0,0,0.1);">
+          <a href="https://www.youtube.com/watch?v=EgfYcYcP50k">
+            <img src="https://img.youtube.com/vi/EgfYcYcP50k/hqdefault.jpg" width="100%" style="border-radius: 10px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
+          </a>
+          <br/><br/>
+          <strong style="color: white; font-size: 16px; text-shadow: 0 2px 4px rgba(0,0,0,0.3);">Największe błędy w nauce programowania - Unikaj ich !</strong>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <div style="margin: 10px; padding: 15px; border-radius: 15px; background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); box-shadow: 0 8px 32px rgba(0,0,0,0.1);">
+          <a href="https://www.youtube.com/watch?v=MFiAWw2idhQ">
+            <img src="https://img.youtube.com/vi/MFiAWw2idhQ/hqdefault.jpg" width="100%" style="border-radius: 10px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
+          </a>
+          <br/><br/>
+          <strong style="color: #333; font-size: 16px; text-shadow: 0 2px 4px rgba(0,0,0,0.1);">❌ Największy BŁĄD Młodych Programistów…</strong>
+        </div>
+      </td>
+      <td width="50%" align="center">
+        <div style="margin: 10px; padding: 15px; border-radius: 15px; background: linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%); box-shadow: 0 8px 32px rgba(0,0,0,0.1);">
+          <a href="https://www.youtube.com/watch?v=D-mEyvX0WD8">
+            <img src="https://img.youtube.com/vi/D-mEyvX0WD8/hqdefault.jpg" width="100%" style="border-radius: 10px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
+          </a>
+          <br/><br/>
+          <strong style="color: #333; font-size: 16px; text-shadow: 0 2px 4px rgba(0,0,0,0.1);">🏆 Top 5 narzędzi, które zrewolucjonizują Twój proces</strong>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- YOUTUBE:END -->
 
 <br/>
 

@@ -1,8 +1,8 @@
 name: Latest YouTube Videos
 on:
-  schedule:
+  # schedule:
     # Uruchom codziennie o 8:00 UTC
-    - cron: '0 8 * * *'
+    # - cron: '0 8 * * *'
   workflow_dispatch:
 
 permissions:
@@ -28,16 +28,7 @@ jobs:
                   <td width="50%" align="center">
                     <div style="margin: 10px; padding: 15px; border-radius: 15px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); box-shadow: 0 8px 32px rgba(0,0,0,0.1);">
                       <a href="$url">
-                        <img src="https://img.youtube.com/vi/##YOUTUBE_ID##/hqdefault.jpg" width="100%" style="border-radius: 10px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
-                      </a>
-                      <br/><br/>
-                      <strong style="color: white; font-size: 16px; text-shadow: 0 2px 4px rgba(0,0,0,0.3);">$title</strong>
-                    </div>
-                  </td>
-                  <td width="50%" align="center">
-                    <div style="margin: 10px; padding: 15px; border-radius: 15px; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); box-shadow: 0 8px 32px rgba(0,0,0,0.1);">
-                      <a href="$url">
-                        <img src="https://img.youtube.com/vi/##YOUTUBE_ID##/hqdefault.jpg" width="100%" style="border-radius: 10px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
+                        <img src="$video_image" width="100%" style="border-radius: 10px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
                       </a>
                       <br/><br/>
                       <strong style="color: white; font-size: 16px; text-shadow: 0 2px 4px rgba(0,0,0,0.3);">$title</strong>
@@ -48,5 +39,4 @@ jobs:
             </div>
           date_format: "dd MMM yyyy"
           filter_comments: "true"
-          reddit_preview_image: "false"
-          custom_tags: "##YOUTUBE_ID##,(?:youtube\\.com\\/(?:[^\\/]+\\/.+\\/|(?:v|e(?:mbed)?)\\/|.*[?&]v=)|youtu\\.be\\/)([^&\\n?#]+)" 
+          reddit_preview_image: "false" 
