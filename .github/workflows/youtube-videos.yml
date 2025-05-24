@@ -21,7 +21,31 @@ jobs:
           comment_tag_name: "YOUTUBE"
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCTNFKRALTZoSQS6mDOuDs2Q"
           max_post_count: 6
-          template: '<div align="center"><a href="$url"><img src="https://img.youtube.com/vi/##YOUTUBE_ID##/hqdefault.jpg" width="400" alt="$title" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/></a><br/><strong style="font-size: 14px;">$title</strong></div>'
+          template: |
+            <div align="center">
+              <table width="100%">
+                <tr>
+                  <td width="50%" align="center">
+                    <div style="margin: 10px; padding: 15px; border-radius: 15px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); box-shadow: 0 8px 32px rgba(0,0,0,0.1);">
+                      <a href="$url">
+                        <img src="https://img.youtube.com/vi/##YOUTUBE_ID##/hqdefault.jpg" width="100%" style="border-radius: 10px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
+                      </a>
+                      <br/><br/>
+                      <strong style="color: white; font-size: 16px; text-shadow: 0 2px 4px rgba(0,0,0,0.3);">$title</strong>
+                    </div>
+                  </td>
+                  <td width="50%" align="center">
+                    <div style="margin: 10px; padding: 15px; border-radius: 15px; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); box-shadow: 0 8px 32px rgba(0,0,0,0.1);">
+                      <a href="$url">
+                        <img src="https://img.youtube.com/vi/##YOUTUBE_ID##/hqdefault.jpg" width="100%" style="border-radius: 10px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
+                      </a>
+                      <br/><br/>
+                      <strong style="color: white; font-size: 16px; text-shadow: 0 2px 4px rgba(0,0,0,0.3);">$title</strong>
+                    </div>
+                  </td>
+                </tr>
+              </table>
+            </div>
           date_format: "dd MMM yyyy"
           filter_comments: "true"
           reddit_preview_image: "false"
