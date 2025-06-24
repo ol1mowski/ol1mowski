@@ -2,7 +2,7 @@
 <h3 align="center">Full-stack developer | Java Spring Boot React TypeScript Node Express Hibernate MongoDB MySQL Docker Kubernetes AWS</h3>
 
 - 🌱 I'm currently learning **Spring Boot**
-- 🌱 I'm currently develop: [CodeLinesJs](https://github.com/ol1mowski/CodeLinesJS)
+- 🌱 I'm currently develop: [JustDrinkJava](https://github.com/ol1mowski/JustDrinkJava)
 - 📚 Read my free E-books: https://www.oliwiermarkiewicz.pl/Ebooki/
 - 📚 Get free JavaScript note: https://www.oliwiermarkiewicz.pl/Notatki/JavaScript/
 - 👨‍💻 All of my projects are available at https://www.oliwiermarkiewicz.pl/
