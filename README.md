@@ -18,7 +18,6 @@
 
 # 🎬 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-
 <div align="center">
   <table width="100%">
     <tr>
