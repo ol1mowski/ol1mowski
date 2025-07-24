@@ -23,7 +23,7 @@
       <td width="50%" align="center">
         <div style="margin: 10px; padding: 15px; border-radius: 15px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); box-shadow: 0 8px 32px rgba(0,0,0,0.1);">
           <a href="https://www.youtube.com/watch?v=PzLayeYesEA">
-            <img src="$video_image" width="100%" style="border-radius: 10px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
+            <img src="$thumbnail" width="100%" style="border-radius: 10px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
           </a>
           <br/><br/>
           <strong style="color: white; font-size: 16px; text-shadow: 0 2px 4px rgba(0,0,0,0.3);">Bezpieczeństwo aplikacji React w 2025 – czego NIE uczą na kursach?</strong>
@@ -37,7 +37,7 @@
       <td width="50%" align="center">
         <div style="margin: 10px; padding: 15px; border-radius: 15px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); box-shadow: 0 8px 32px rgba(0,0,0,0.1);">
           <a href="https://www.youtube.com/watch?v=wqTxSIvrwgo">
-            <img src="$video_image" width="100%" style="border-radius: 10px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
+            <img src="$thumbnail" width="100%" style="border-radius: 10px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
           </a>
           <br/><br/>
           <strong style="color: white; font-size: 16px; text-shadow: 0 2px 4px rgba(0,0,0,0.3);">10x szybsza i skuteczniejsza nauka w 2025</strong>
@@ -51,7 +51,7 @@
       <td width="50%" align="center">
         <div style="margin: 10px; padding: 15px; border-radius: 15px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); box-shadow: 0 8px 32px rgba(0,0,0,0.1);">
           <a href="https://www.youtube.com/watch?v=iWkt6FXyzTw">
-            <img src="$video_image" width="100%" style="border-radius: 10px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
+            <img src="$thumbnail" width="100%" style="border-radius: 10px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
           </a>
           <br/><br/>
           <strong style="color: white; font-size: 16px; text-shadow: 0 2px 4px rgba(0,0,0,0.3);">Jak Tworzyć Nowoczesny Frontend w 2025 | Najlepsze Praktyki, Design Patterns, CI/CD, Hosting</strong>
@@ -65,7 +65,7 @@
       <td width="50%" align="center">
         <div style="margin: 10px; padding: 15px; border-radius: 15px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); box-shadow: 0 8px 32px rgba(0,0,0,0.1);">
           <a href="https://www.youtube.com/shorts/5rF9zqrgcp8">
-            <img src="$video_image" width="100%" style="border-radius: 10px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
+            <img src="$thumbnail" width="100%" style="border-radius: 10px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
           </a>
           <br/><br/>
           <strong style="color: white; font-size: 16px; text-shadow: 0 2px 4px rgba(0,0,0,0.3);">🚨 KRYTYCZNA PODATNOŚĆ W NEXT.JS TWOJA APLIKACJA JEST W NIEBEZPIECZEŃSTWIE! #cybersecurity #nextjs</strong>
@@ -79,7 +79,7 @@
       <td width="50%" align="center">
         <div style="margin: 10px; padding: 15px; border-radius: 15px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); box-shadow: 0 8px 32px rgba(0,0,0,0.1);">
           <a href="https://www.youtube.com/watch?v=3Iz93_n-pLM">
-            <img src="$video_image" width="100%" style="border-radius: 10px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
+            <img src="$thumbnail" width="100%" style="border-radius: 10px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
           </a>
           <br/><br/>
           <strong style="color: white; font-size: 16px; text-shadow: 0 2px 4px rgba(0,0,0,0.3);">Najdziwniejsze zachowania JavaScript których nie znasz !</strong>
@@ -93,7 +93,7 @@
       <td width="50%" align="center">
         <div style="margin: 10px; padding: 15px; border-radius: 15px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); box-shadow: 0 8px 32px rgba(0,0,0,0.1);">
           <a href="https://www.youtube.com/shorts/4VFXEjTA1so">
-            <img src="$video_image" width="100%" style="border-radius: 10px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
+            <img src="$thumbnail" width="100%" style="border-radius: 10px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
           </a>
           <br/><br/>
           <strong style="color: white; font-size: 16px; text-shadow: 0 2px 4px rgba(0,0,0,0.3);">🔥 99% programistów NIE ZNA tej dziwnej zasady w JavaScript! 😱 JavaScript Tips Programowanie</strong>
