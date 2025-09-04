@@ -3,8 +3,8 @@
 
 - 🌱 I'm currently learning **Spring Boot**
 - 🌱 I'm currently develop: [Mailer](https://github.com/ol1mowski/Mailer)
-- 📚 Read my free E-books: https://www.oliwiermarkiewicz.pl/Ebooki/
-- 📚 Get free JavaScript note: https://www.oliwiermarkiewicz.pl/Notatki/JavaScript/
+- 📚 Read my free E-books: https://www.oliwiermarkiewicz.pl/materialy/
+- 📚 Get free JavaScript note: https://www.oliwiermarkiewicz.pl/materialy/
 - 👨‍💻 All of my projects are available at https://www.oliwiermarkiewicz.pl/
 - 📚 Read my blog: https://www.oliwiermarkiewicz.pl/Blog/
 - 🎬 My YouTube: https://www.youtube.com/@oliwier.markiewicz/
