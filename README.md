@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Oliwier Markiewicz</h1>
-<h3 align="center">Full-stack developer | Java Spring Boot React TypeScript Node Express Hibernate MongoDB MySQL Docker Kubernetes AWS</h3>
+<h3 align="center">Full-stack developer | ☕️ Java Spring Boot React TypeScript Hibernate MongoDB PostgreSQL Docker Kubernetes AWS</h3>
 
 - 🌱 I'm currently learning **Spring Boot**
 - 🌱 I'm currently develop: [Mailer](https://github.com/ol1mowski/Mailer)
