@@ -26,7 +26,7 @@
             <img src="$thumbnail" width="100%" style="border-radius: 10px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
           </a>
           <br/><br/>
-          <strong style="color: white; font-size: 16px; text-shadow: 0 2px 4px rgba(0,0,0,0.3);">Bezpieczeństwo aplikacji React w 2025 – czego NIE uczą na kursach?</strong>
+          <strong style="color: white; font-size: 16px; text-shadow: 0 2px 4px rgba(0,0,0,0.3);">Bezpieczeństwo na Frontendzie w 2025 – czego NIE uczą na kursach?</strong>
         </div>
       </td>
     </tr>
