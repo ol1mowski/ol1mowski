@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Oliwier Markiewicz</h1>
 <h3 align="center">Full-stack developer | ☕️ Java Spring Boot React TypeScript Hibernate MongoDB PostgreSQL Docker Kubernetes AWS</h3>
 
-- 🌱 I'm currently learning **Spring Boot**
-- 🌱 I'm currently develop: [Mailer](https://github.com/ol1mowski/Mailer)
+- 🌱 I'm currently learning **Microservices**
+- 🌱 I'm currently develop: [CodeLinesJs](https://github.com/ol1mowski/CodeLinesJs)
 - 📚 Read my free E-books: https://www.oliwiermarkiewicz.pl/materialy/
 - 📚 Get free JavaScript note: https://www.oliwiermarkiewicz.pl/materialy/
 - 👨‍💻 All of my projects are available at https://www.oliwiermarkiewicz.pl/
