@@ -3,10 +3,6 @@
 
 - 🌱 I'm currently learning **CTO Role**
 - 🌱 I'm currently develop: [CodeLinesJs](https://github.com/ol1mowski/CodeLinesJs)
-- 📚 Read my free E-books: https://www.oliwiermarkiewicz.pl/materialy/
-- 📚 Get free JavaScript note: https://www.oliwiermarkiewicz.pl/materialy/
-- 👨‍💻 All of my projects are available at https://www.oliwiermarkiewicz.pl/
-- 📚 Read my blog: https://www.oliwiermarkiewicz.pl/Blog/
 - 🎬 My YouTube: https://www.youtube.com/@oliwier.markiewicz/
 - 📫 How to reach me **oliwier.markiewicz.dev@gmail.com**
 - 📄 Know about my experiences [https://www.linkedin.com/in/oliwier-markiewicz-47857228a/](https://www.linkedin.com/in/oliwier-markiewicz-47857228a/)
