@@ -18,6 +18,20 @@
     <tr>
       <td width="50%" align="center">
         <div style="margin: 10px; padding: 15px; border-radius: 15px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); box-shadow: 0 8px 32px rgba(0,0,0,0.1);">
+          <a href="https://www.youtube.com/watch?v=fqp4CnPFbFA">
+            <img src="$thumbnail" width="100%" style="border-radius: 10px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
+          </a>
+          <br/><br/>
+          <strong style="color: white; font-size: 16px; text-shadow: 0 2px 4px rgba(0,0,0,0.3);">Czy FRONTEND w 2026 roku to ślepa uliczka? Brutalna prawda</strong>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div><div align="center">
+  <table width="100%">
+    <tr>
+      <td width="50%" align="center">
+        <div style="margin: 10px; padding: 15px; border-radius: 15px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); box-shadow: 0 8px 32px rgba(0,0,0,0.1);">
           <a href="https://www.youtube.com/watch?v=PzLayeYesEA">
             <img src="$thumbnail" width="100%" style="border-radius: 10px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
           </a>
@@ -79,20 +93,6 @@
           </a>
           <br/><br/>
           <strong style="color: white; font-size: 16px; text-shadow: 0 2px 4px rgba(0,0,0,0.3);">Najdziwniejsze zachowania JavaScript których nie znasz !</strong>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div><div align="center">
-  <table width="100%">
-    <tr>
-      <td width="50%" align="center">
-        <div style="margin: 10px; padding: 15px; border-radius: 15px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); box-shadow: 0 8px 32px rgba(0,0,0,0.1);">
-          <a href="https://www.youtube.com/shorts/4VFXEjTA1so">
-            <img src="$thumbnail" width="100%" style="border-radius: 10px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
-          </a>
-          <br/><br/>
-          <strong style="color: white; font-size: 16px; text-shadow: 0 2px 4px rgba(0,0,0,0.3);">🔥 99% programistów NIE ZNA tej dziwnej zasady w JavaScript! 😱 JavaScript Tips Programowanie</strong>
         </div>
       </td>
     </tr>
